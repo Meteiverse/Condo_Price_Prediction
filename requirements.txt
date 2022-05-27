@@ -1,3 +1,4 @@
 streamlit
 pandas
 typing_extensions
+pickle
