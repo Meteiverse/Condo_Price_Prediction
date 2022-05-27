@@ -8,8 +8,6 @@ Created on Fri May 27 14:47:23 2022
 import streamlit as st
 import pickle
 import pandas as pd
-import warnings
-warnings.filterwarnings("ignore", category=FutureWarning)
 
 st.set_page_config(layout="wide")
 st.title('Condo Price Prediction with Regression 😍')
